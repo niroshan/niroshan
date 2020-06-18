@@ -33,5 +33,5 @@ My wife is a professional dancer and thought we should do something fun for our 
 
 - 🔭 I’m currently working on GitHub Advanced Security
 - 👯 I’m looking to collaborate on ideas to drive Application Security innovation forwards
-- 💬 Ask me about Functioal Safety, Safety Critical Systems and Application Security
+- 💬 Ask me about Functional Safety, Safety Critical Systems and Application Security
 - 😄 Pronouns: no preference
