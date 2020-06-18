@@ -1,4 +1,4 @@
-## Welcome to the official GitHub profile of @niroshan
+## Welcome to the official GitHub profile of [@niroshan](https://github.com/niroshan)
 
 ![Little Bobby Tables](https://github.com/niroshan/niroshan/blob/master/xkcd-sql-injection.jpg)
 
