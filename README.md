@@ -23,6 +23,11 @@ Hi, I'm a Githubber working on/with/in our [Advanced Security](https://github.co
 * [Automating Software Testing for Safety Critical Systems - Embedded World 2011](https://www.youtube.com/watch?v=M3c-QdfvUBM&t)
 * [Verification and Validation of IoT Systems for IEC 61508 - Embedded World 2012](https://www.youtube.com/watch?v=0N64ESf6VQY&t)
 
+### Projects
+
+ * [CSIRO AXP Detector for use at Parkes Radio Telescope](https://github.com/niroshan/CSIRO-AXP)
+ * [QTester - Skill Tester](https://github.com/niroshan/qtester)
+
 ### ⚡ Fun fact
 
 My wife is a professional dancer and thought we should do something fun for our First Dance at our Wedding. I on the other hand am NOT a dancer in anyway shape or form... enjoy...
