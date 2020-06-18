@@ -40,3 +40,5 @@ My wife is a professional dancer and thought we should do something fun for our 
 - 👯 I’m looking to collaborate on ideas to drive Application Security innovation forwards
 - 💬 Ask me about Functional Safety, Safety Critical Systems and Application Security
 - 😄 Pronouns: no preference
+
+[![HitCount](http://hits.dwyl.com/niroshan/niroshan.svg)](http://hits.dwyl.com/niroshan/niroshan)
