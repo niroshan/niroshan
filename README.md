@@ -13,7 +13,7 @@ Hi, I'm a Githubber working on/with/in our [Advanced Security](https://github.co
 [![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://www.linkedin.com/in/niroshanr/)
 
 ### Magazine Articles
-* New Electronics - OCTober 2018 - [Cyber Security: Teach Them To Fish](https://www.linkedin.com/in/niroshanr/detail/treasury/position:1345482867/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABRiMRABbBZaQcVTVipXQWwEJBUzgzpWWjA%2C1580386279834)&section=position%3A1345482867&treasuryCount=3)
+* New Electronics - October 2018 - [Cyber Security: Teach Them To Fish](https://www.linkedin.com/in/niroshanr/detail/treasury/position:1345482867/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABRiMRABbBZaQcVTVipXQWwEJBUzgzpWWjA%2C1580386279834)&section=position%3A1345482867&treasuryCount=3)
 * New Electronics - October 2018 - [Cybercrime is on-going, but many breaches could be prevented](https://www.newelectronics.co.uk/electronics-interviews/cybercrime-is-on-going-but-many-breaches-could-be-prevented/191112/)
 * Aerospace Testing International - October 2018 - [Best In Test](https://www.linkedin.com/in/niroshanr/detail/treasury/position:1529585195/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABRiMRABbBZaQcVTVipXQWwEJBUzgzpWWjA%2C1571047314545)&section=position%3A1529585195&treasuryCount=1)
 * TEST Magazine - July 2018 -[Viva La Revolution!](https://issuu.com/31media/docs/test_july_2018_digital/6)
