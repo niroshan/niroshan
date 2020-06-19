@@ -12,6 +12,19 @@ Hi, I'm a Githubber working on/with/in our [Advanced Security](https://github.co
 [![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/nirocr) 
 [![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://www.linkedin.com/in/niroshanr/)
 
+### Magazine Articles
+* New Electronics - OCTober 2018 - [Cyber Security: Teach Them To Fish](https://www.linkedin.com/in/niroshanr/detail/treasury/position:1345482867/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABRiMRABbBZaQcVTVipXQWwEJBUzgzpWWjA%2C1580386279834)&section=position%3A1345482867&treasuryCount=3)
+* New Electronics - October 2018 - [Cybercrime is on-going, but many breaches could be prevented](https://www.newelectronics.co.uk/electronics-interviews/cybercrime-is-on-going-but-many-breaches-could-be-prevented/191112/)
+* Aerospace Testing International - October 2018 - [Best In Test](https://www.linkedin.com/in/niroshanr/detail/treasury/position:1529585195/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABRiMRABbBZaQcVTVipXQWwEJBUzgzpWWjA%2C1571047314545)&section=position%3A1529585195&treasuryCount=1)
+* TEST Magazine - July 2018 -[Viva La Revolution!](https://issuu.com/31media/docs/test_july_2018_digital/6)
+* EE Design Europe - October 2017 - [Migrate and modernise old applications: How difficult can it be?](http://mag.eenewseurope.com/EEDE_OCT_2017/page_19.html)
+* TEST Magazine – November 2016 - [Will the 'Connected Car' ever be safe enough](https://issuu.com/31media/docs/test_magazine_nov2016-web/40)
+* Vehicle Electronics - April 2016 [Software is everywhere](https://vehicle-electronics.biz/content/software-everywhere) - One of Four Part Series on Automotive Software
+* Vehicle Electronics - May 2016 [Software: In the red](https://vehicle-electronics.biz/content/software-red) - Two of Four Part Series on Automotive Software
+* Vehicle Electronics - June 2016 [Software: On the button](https://vehicle-electronics.biz/content/software-button)  - Three of Four Part Series on Automotive Software
+* Vehicle Electronics - July 2016 [Software: Right direction](https://vehicle-electronics.biz/content/software-right-direction) - Four of Four Part Series on Automotive Software
+
+
 ### Popular blog posts
 
 * [Technical debt in the world of Internet of Things / IoT](https://www.coderskitchen.com/technical-debt-in-the-world-of-internet-of-things-iot/)
@@ -19,12 +32,17 @@ Hi, I'm a Githubber working on/with/in our [Advanced Security](https://github.co
 * [How to address Software Quality for the Industrial Internet of Things](https://medium.com/memoirs-of-a-technocrat/how-to-address-software-quality-for-the-industrial-internet-of-things-the-automation-9c6d8a68df1e)
 * [Five Steps to implement Continuous Testing](https://medium.com/@nirocr/five-steps-to-implement-continuous-testing-223bf68c40ec)
 
+### Popular vblog posts
+
+* [Technical Debt 101 - With Neil Langmead](https://www.youtube.com/watch?v=n9zqaoH6d-0)
+
 ### Conference Presentations
 
 * [The Safe & Secure Software Factory - Vector Congress 2018](https://www.youtube.com/watch?v=3qVZx3ZCltk)
-* [Embedded Software Security - Electronica 2016 - Munich, Germany](http://www.youtube.com/watch?v=BF2QwHuxXcU "Niroshan Rajadurai - Software Security - Electronica 2016 - Munich, Germany") 
-* [Automating Software Testing for Safety Critical Systems - Embedded World 2011](https://www.youtube.com/watch?v=M3c-QdfvUBM&t)
+* [Dynamically Proving That Security Issues Exist in IoT Software - Electronica 2016 - Munich, Germany](http://www.youtube.com/watch?v=BF2QwHuxXcU "Niroshan Rajadurai - Software Security - Electronica 2016 - Munich, Germany") 
 * [Verification and Validation of IoT Systems for IEC 61508 - Embedded World 2012](https://www.youtube.com/watch?v=0N64ESf6VQY&t)
+* [Automating Software Testing for Safety Critical Systems - Embedded World 2011](https://www.youtube.com/watch?v=M3c-QdfvUBM&t)
+
 
 ### Projects
 
