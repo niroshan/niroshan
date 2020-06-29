@@ -49,6 +49,16 @@ Hi, I'm a Githubber working on/with/in our [Advanced Security](https://github.co
 
  * [CSIRO AXP Detector for use at Parkes Radio Telescope](https://github.com/niroshan/CSIRO-AXP)
  * [QTester - Skill Tester](https://github.com/niroshan/qtester)
+ 
+### Get motivated
+
+Nice motivation videos that get me going - external sources
+ * [ Martin Luther King - I Have A Dream Speech (in color)](https://www.youtube.com/watch?v=c2th10qbzBU)
+ * [Bruce Lee - Be like water](https://www.youtube.com/watch?v=nzQWYHHqvIw)
+ * [Admiral McRaven addresses the University of Texas at Austin Class of 2014](https://www.youtube.com/watch?v=yaQZFhrW0fU)
+ * [Matthew McConaughey winning Best Actor](https://youtu.be/wD2cVhC-63I?t=78)
+ * [These Are Arnold Schwarzenegger's 5 Rules for Success | Motivational Speech | Goalcast](https://www.youtube.com/watch?v=Kb7_E12FFLw)
+ * [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 
 ### ⚡ Fun fact
 
