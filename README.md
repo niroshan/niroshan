@@ -27,6 +27,7 @@ Hi, I'm a Githubber working on/with/in our [Advanced Security](https://github.co
 
 ### Popular blog posts
 
+* [How SpaceX Develops Software](https://www.coderskitchen.com/spacex-software-development-and-testing/)
 * [Technical debt in the world of Internet of Things / IoT](https://www.coderskitchen.com/technical-debt-in-the-world-of-internet-of-things-iot/)
 * [5 ways to accelerate testing for your IoT Devices](https://medium.com/memoirs-of-a-technocrat/5-ways-to-accelerate-testing-for-your-iot-devices-ed5897718a9)
 * [How to address Software Quality for the Industrial Internet of Things](https://medium.com/memoirs-of-a-technocrat/how-to-address-software-quality-for-the-industrial-internet-of-things-the-automation-9c6d8a68df1e)
