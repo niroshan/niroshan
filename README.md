@@ -73,4 +73,10 @@ My wife is a professional dancer and thought we should do something fun for our 
 - 💬 Ask me about Functional Safety, Safety Critical Systems and Application Security
 - 😄 Pronouns: no preference
 
+### Intersting Reference Documents related to improving Software Quality
+- [Bookout Versus Toyota](https://github.com/niroshan/niroshan/blob/master/reference_material/Bookout_v_Toyota_Barr_REDACTED.pdf)
+- [Defect Escape Analysis - Test Process Improvement](https://github.com/niroshan/niroshan/blob/master/reference_material/DefectEscapeAnalysisTestProcessImprovement.pdf)
+- [Cost per Defect Metric - Capers Jones](https://github.com/niroshan/niroshan/blob/master/reference_material/Jones-CostPerDefectMetricVersion4.pdf)
+
+
 [![HitCount](http://hits.dwyl.com/niroshan/niroshan.svg)](http://hits.dwyl.com/niroshan/niroshan)
