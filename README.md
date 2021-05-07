@@ -79,4 +79,4 @@ My wife is a professional dancer and thought we should do something fun for our 
 - [Cost per Defect Metric - Capers Jones](https://github.com/niroshan/niroshan/blob/master/reference_material/Jones-CostPerDefectMetricVersion4.pdf)
 
 
-[![HitCount](http://hits.dwyl.com/niroshan/niroshan.svg)](http://hits.dwyl.com/niroshan/niroshan)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fniroshan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
