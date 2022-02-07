@@ -52,7 +52,7 @@ Hi, I'm a Githubber working on/with/in our [Advanced Security](https://github.co
 ### Get motivated
 
 Nice motivation videos that get me going - external sources
- * [ Martin Luther King - I Have A Dream Speech (in color)](https://www.youtube.com/watch?v=c2th10qbzBU)
+ * [Martin Luther King - I Have A Dream Speech (in color)](https://www.youtube.com/watch?v=c2th10qbzBU)
  * [Bruce Lee - Be like water](https://www.youtube.com/watch?v=nzQWYHHqvIw)
  * [Admiral McRaven addresses the University of Texas at Austin Class of 2014](https://www.youtube.com/watch?v=yaQZFhrW0fU)
  * [Matthew McConaughey winning Best Actor](https://youtu.be/wD2cVhC-63I?t=78)
@@ -77,7 +77,7 @@ My wife is a professional dancer and thought we should do something fun for our 
 - [Defect Escape Analysis - Test Process Improvement](https://github.com/niroshan/niroshan/blob/master/reference_material/DefectEscapeAnalysisTestProcessImprovement.pdf)
 - [Cost per Defect Metric - Capers Jones](https://github.com/niroshan/niroshan/blob/master/reference_material/Jones-CostPerDefectMetricVersion4.pdf)
 
-### Speaker Bio
+### [Speaker Bio](#Speaker-Bio)
 Niroshan brings more than 20 years of experience in the design and development of safety-critical and fault-tolerant systems.<br><br>
 In recent years, he has collaborated in the development of pioneering innovations in the field of DevOps and Application Security. This includes technologies such as application security testing, change-based testing, code fuzzing, and variant analysis for the hunting of 0-days in Enterprise Software.<br><br>
 Prior to GitHub, Niroshan led growth at Semmle, the company behind the CodeQL semantic code analysis engine which powers GitHub’s Advanced Security code scanning capability. Semmle was acquired by Microsoft/GitHub in September 2019.<br>
