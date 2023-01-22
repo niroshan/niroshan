@@ -4,16 +4,17 @@
 
 ### About Me
 
-Hi, I'm a Githubber working on/with/in our [Advanced Security](https://github.com/features/security) Product. I work in the Field organisation, supporting our sales and solution engineering teams working with our customers Globally. I joined GitHub in September 2019 as part of their [acquisiton of Semmle](https://github.blog/2019-09-18-github-welcomes-semmle/). At Semmle, we made the most amazing Semantic Analyser I have ever seen, known as [CodeQL](https://securitylab.github.com/tools/codeql).
+Hi, I'm a Githubber working on/with/in our [Advanced Security](https://github.com/features/security) Product. I work in the Field organisation, supporting our sales and solution engineering teams working with our customers Globally. I joined GitHub in September 2019 as part of their [acquisition of Semmle](https://github.blog/2019-09-18-github-welcomes-semmle/). At Semmle, we made the most amazing Semantic Analyser I have ever seen, known as [CodeQL](https://securitylab.github.com/tools/codeql).
 
 ### Elsewhere on the internet
 
-[![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/nirocr) 
+[![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/galacticn0) 
 [![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://www.linkedin.com/in/niroshanr/)
+
 
 ### Magazine Articles
 * New Electronics - October 2018 - [Cyber Security: Teach Them To Fish](https://www.linkedin.com/in/niroshanr/detail/treasury/position:1345482867/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABRiMRABbBZaQcVTVipXQWwEJBUzgzpWWjA%2C1580386279834)&section=position%3A1345482867&treasuryCount=3)
-* New Electronics - October 2018 - [Cybercrime is on-going, but many breaches could be prevented](https://www.newelectronics.co.uk/electronics-interviews/cybercrime-is-on-going-but-many-breaches-could-be-prevented/191112/)
+* New Electronics - October 2018 - [Cybercrime is ongoing, but many breaches could be prevented](https://www.newelectronics.co.uk/electronics-interviews/cybercrime-is-on-going-but-many-breaches-could-be-prevented/191112/)
 * Aerospace Testing International - October 2018 - [Best In Test](https://www.linkedin.com/in/niroshanr/detail/treasury/position:1529585195/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABRiMRABbBZaQcVTVipXQWwEJBUzgzpWWjA%2C1571047314545)&section=position%3A1529585195&treasuryCount=1)
 * TEST Magazine - July 2018 -[Viva La Revolution!](https://issuu.com/31media/docs/test_july_2018_digital/6)
 * EE Design Europe - October 2017 - [Migrate and modernise old applications: How difficult can it be?](http://mag.eenewseurope.com/EEDE_OCT_2017/page_19.html)
@@ -41,7 +42,7 @@ Hi, I'm a Githubber working on/with/in our [Advanced Security](https://github.co
 * [The Safe & Secure Software Factory - Vector Congress 2018](https://www.youtube.com/watch?v=3qVZx3ZCltk)
 * [Dynamically Proving That Security Issues Exist in IoT Software - Electronica 2016 - Munich, Germany](http://www.youtube.com/watch?v=BF2QwHuxXcU "Niroshan Rajadurai - Software Security - Electronica 2016 - Munich, Germany") 
 * [Verification and Validation of IoT Systems for IEC 61508 - Embedded World 2012](https://www.youtube.com/watch?v=0N64ESf6VQY&t)
-* [Automating Software Testing for Safety Critical Systems - Embedded World 2011](https://www.youtube.com/watch?v=M3c-QdfvUBM&t)
+* [Automating Software Testing for Safety-Critical Systems - Embedded World 2011](https://www.youtube.com/watch?v=M3c-QdfvUBM&t)
 
 
 ### Projects
@@ -51,8 +52,8 @@ Hi, I'm a Githubber working on/with/in our [Advanced Security](https://github.co
  
 ### Get motivated
 
-Nice motivation videos that get me going - external sources
- * [Martin Luther King - I Have A Dream Speech (in color)](https://www.youtube.com/watch?v=c2th10qbzBU)
+Excellent motivation videos that get me going - external sources
+ * [Martin Luther King - I Have A Dream Speech (in colour)](https://www.youtube.com/watch?v=c2th10qbzBU)
  * [Bruce Lee - Be like water](https://www.youtube.com/watch?v=nzQWYHHqvIw)
  * [Admiral McRaven addresses the University of Texas at Austin Class of 2014](https://www.youtube.com/watch?v=yaQZFhrW0fU)
  * [Matthew McConaughey winning Best Actor](https://youtu.be/wD2cVhC-63I?t=78)
@@ -61,7 +62,7 @@ Nice motivation videos that get me going - external sources
 
 ### ⚡ Fun fact
 
-My wife is a professional dancer and thought we should do something fun for our First Dance at our Wedding. I on the other hand am NOT a dancer in anyway shape or form... enjoy...
+My wife is a professional dancer and thought we should do something fun for our First Dance at our Wedding. I, on the other hand, am NOT a dancer in any way, shape or form... enjoy...
 
 [![All things should be attempted atleast once](http://img.youtube.com/vi/zHpONO7pcEQ/0.jpg)](http://www.youtube.com/watch?v=zHpONO7pcEQ "All things should be attempted atleast once!")
 
@@ -72,15 +73,15 @@ My wife is a professional dancer and thought we should do something fun for our 
 - 💬 Ask me about Functional Safety, Safety Critical Systems and Application Security
 - 😄 Pronouns: no preference
 
-### Intersting Reference Documents related to improving Software Quality
+### Interesting Reference Documents related to improving Software Quality
 - [Bookout Versus Toyota](https://github.com/niroshan/niroshan/blob/master/reference_material/Bookout_v_Toyota_Barr_REDACTED.pdf)
 - [Defect Escape Analysis - Test Process Improvement](https://github.com/niroshan/niroshan/blob/master/reference_material/DefectEscapeAnalysisTestProcessImprovement.pdf)
 - [Cost per Defect Metric - Capers Jones](https://github.com/niroshan/niroshan/blob/master/reference_material/Jones-CostPerDefectMetricVersion4.pdf)
 
 ### [Speaker Bio](#Speaker-Bio)
-Niroshan brings more than 20 years of experience in the design and development of safety-critical and fault-tolerant systems.<br><br>
+Niroshan brings over 20 years of experience in the design and development of safety-critical and fault-tolerant systems.<br><br>
 In recent years, he has collaborated in the development of pioneering innovations in the field of DevOps and Application Security. This includes technologies such as application security testing, change-based testing, code fuzzing, and variant analysis for the hunting of 0-days in Enterprise Software.<br><br>
-Prior to GitHub, Niroshan led growth at Semmle, the company behind the CodeQL semantic code analysis engine which powers GitHub’s Advanced Security code scanning capability. Semmle was acquired by Microsoft/GitHub in September 2019.<br>
+Prior to GitHub, Niroshan led growth at Semmle, the company behind the CodeQL semantic code analysis engine, which powers GitHub’s Advanced Security code scanning capability. Microsoft/GitHub acquired Semmle in September 2019.<br>
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fniroshan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
