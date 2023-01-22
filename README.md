@@ -10,8 +10,7 @@ Hi, I'm a Githubber working on/with/in our [Advanced Security](https://github.co
 
 [![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/galacticn0) 
 [![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://www.linkedin.com/in/niroshanr/)
-[![Blog](https://github.com/niroshan/niroshan/blob/81f2359bdc76cc8d2aa1ece5e3455ff82a434123/galacticnaut-logo-small.png)](https://galacticnaut.com/)
-
+[![Blog](https://github.com/niroshan/niroshan/blob/master/galacticnaut-logo-small.png)](https://galacticnaut.com/)
 
 ### Magazine Articles
 * New Electronics - October 2018 - [Cyber Security: Teach Them To Fish](https://www.linkedin.com/in/niroshanr/detail/treasury/position:1345482867/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABRiMRABbBZaQcVTVipXQWwEJBUzgzpWWjA%2C1580386279834)&section=position%3A1345482867&treasuryCount=3)
